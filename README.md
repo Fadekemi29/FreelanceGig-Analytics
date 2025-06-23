@@ -94,6 +94,6 @@ This analysis is based on sample data for educational and portfolio demonstratio
 For questions or collaboration opportunities, please reach out via:
 - LinkedIn: https://www.linkedin.com/in/fadekemi-adefemi0129/
 - Email: Fadekemiadefemi22@gmail.com
-- GitHub: [Your GitHub Profile]
+- GitHub: https://github.com/Fadekemi29/
 
 
